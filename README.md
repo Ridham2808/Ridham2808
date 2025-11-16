@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ridham Patel  
 
-I'm a **First-year BTech CSE student** passionate about **web development, UI/UX design, and problem-solving**. I specialize in **building sleek, responsive websites** and designing **intuitive user experiences** using **Figma**.  
+I'm a **Second-year BTech CSE student** passionate about **web development, UI/UX design, and problem-solving**. I specialize in **building sleek, responsive websites** and designing **intuitive user experiences** using **Figma**.  
 
 ## 🛠 Tech Stack & Skills  
 - **Programming:** C, C++, Data Structures 
