@@ -54,8 +54,8 @@ I am a **Full-Stack Developer** focused on building high-performance web applica
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ridham2808&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridham2808&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="180" />
+  <img src="https://github-readme-stats-9orp.vercel.app/api?username=Ridham2808&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats-9orp.vercel.app/api/top-langs/?username=Ridham2808&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
 </div>
 
 ---
