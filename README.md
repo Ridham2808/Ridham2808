@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋Hi, I'm Ridham Patel
+# 👋 Hi, I'm Ridham Patel
 
 ### 🚀 Full-Stack Developer | UI/UX Enthusiast | Problem Solver
 
@@ -13,11 +13,11 @@
   <a href="mailto:ridham.patel.cg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
 ✨ **10+ Projects** | 🏆 **Hackatron Finalist @ ABV-IIITM** | 🎓 **BTech CSE** | 📍 **Ahmedabad**
 
 </div>
+
+---
 
 ## 📖 About Me
 
@@ -33,30 +33,29 @@ I am a **Full-Stack Developer** focused on building high-performance web applica
 
 ### 💻 Frontend & Languages
 <p align="left">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Infrastructure
 <p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-9orp.vercel.app/api?username=Ridham2808&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats-9orp.vercel.app/api/top-langs/?username=Ridham2808&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridham2808&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
 
 ---
 
@@ -66,13 +65,14 @@ I am a **Full-Stack Developer** focused on building high-performance web applica
 > **The Educator's Hub** | *Freelance*
 - **Stack:** Next.js, Node.js, MongoDB, Supabase, Cloudinary.
 - **Goal:** Empowering teachers with resources and community engagement tools.
-- [🔗 Live ](https://justforteachers.in/)• [🎥 Demo](Link) • [📁 Postman](https://documenter.getpostman.com/view/39189278/2sB3dVLmFd)
+- [🔗 Live ](https://justforteachers.in/)• [🎥 Demo](#) • [📁 Postman](https://documenter.getpostman.com/view/39189278/2sB3dVLmFd)
 
 ### 💪 Ironcore Gym
 > **Next-Gen Fitness Management**
 - **Stack:** MERN Stack, JWT Auth, AI Diet Engine.
 - **Goal:** Real-time BMI tracking and AI-powered personalized health plans.
-- [💻 Github ](https://github.com/Ridham2808/ironcore_gym?tab=readme-ov-file)•[🔗 Live ](https://ironcore-gym-2.onrender.com/)• [🎥 Demo](Link) • [📁 Postman](https://documenter.getpostman.com/view/39189278/2sAYX3rPFi)• [✅ Closed PRs](https://github.com/codinggita/ironcore_gym/pulls?q=is%3Apr+is%3Aclosed)
+- [💻 Github ](https://github.com/Ridham2808/ironcore_gym?tab=readme-ov-file)• [🔗 Live ](https://ironcore-gym-2.onrender.com/)• [🎥 Demo](#) • [📁 Postman](https://documenter.getpostman.com/view/39189278/2sAYX3rPFi) • [✅ Closed PRs](https://github.com/codinggita/ironcore_gym/pulls?q=is%3Apr+is%3Aclosed)
+
 ---
 
 ## 🏆 Hackathons & Wins
