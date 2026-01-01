@@ -65,13 +65,13 @@ I am a **Full-Stack Developer** focused on building high-performance web applica
 > **The Educator's Hub** | *Freelance*
 - **Stack:** Next.js, Node.js, MongoDB, Supabase, Cloudinary.
 - **Goal:** Empowering teachers with resources and community engagement tools.
-- [🔗 Live ](https://justforteachers.in/)• [🎥 Demo](#) • [📁 Postman](https://documenter.getpostman.com/view/39189278/2sB3dVLmFd)
+- [🔗 Live ](https://justforteachers.in/)• [🎥 Demo](https://youtu.be/masDEhRtEcg?si=ZymtYjSA56XfhAkF) • [📁 Postman](https://documenter.getpostman.com/view/39189278/2sB3dVLmFd)
 
 ### 💪 Ironcore Gym
 > **Next-Gen Fitness Management**
 - **Stack:** MERN Stack, JWT Auth, AI Diet Engine.
 - **Goal:** Real-time BMI tracking and AI-powered personalized health plans.
-- [💻 Github ](https://github.com/Ridham2808/ironcore_gym?tab=readme-ov-file)• [🔗 Live ](https://ironcore-gym-2.onrender.com/)• [🎥 Demo](#) • [📁 Postman](https://documenter.getpostman.com/view/39189278/2sAYX3rPFi) • [✅ Closed PRs](https://github.com/codinggita/ironcore_gym/pulls?q=is%3Apr+is%3Aclosed)
+- [💻 Github ](https://github.com/Ridham2808/ironcore_gym?tab=readme-ov-file)• [🔗 Live ](https://ironcore-gym-2.onrender.com/)• [🎥 Demo](https://youtu.be/PhFP8Qhr9jc?si=bAi8HjylQFqZoCpv) • [📁 Postman](https://documenter.getpostman.com/view/39189278/2sAYX3rPFi) • [✅ Closed PRs](https://github.com/codinggita/ironcore_gym/pulls?q=is%3Apr+is%3Aclosed)
 
 ---
 
